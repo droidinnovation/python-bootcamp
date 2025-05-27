@@ -1,3 +1,10 @@
+
+<img width="352" alt="Screen Shot 2025-05-27 at 08 35 48" src="https://github.com/user-attachments/assets/aa8e7626-b67f-4195-8777-b0452c29a57b" />
+<img width="351" alt="Screen Shot 2025-05-27 at 08 37 06" src="https://github.com/user-attachments/assets/08eb0345-debd-49e8-94bf-06e66a687019" />
+<img width="353" alt="Screen Shot 2025-05-27 at 08 36 54" src="https://github.com/user-attachments/assets/ccbd5ce4-d9db-4f14-b513-a2c21e69ac8d" />
+
+
+
 # Python Quizzler App
 The Python Quizzler App is a simple quiz application built using Python and the tkinter library.
 
